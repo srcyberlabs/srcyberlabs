@@ -6,18 +6,20 @@
 
 <br><br>
 
-<p align="center">
-    <a href="https://github.com/srcyberlabs">
-        <img src="https://img.shields.io/badge/Visit%20SR%20CYBER%20LABS%20on%20GitHub-28a745?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" 
-             alt="SR CYBER LABS GitHub Page" style="margin: 10px;">
-    </a>
-</p>
+<div align="center">
+
+[DEMOCRATIZING INNOVATION](https://github.com/srcyberlabs/srcyberlabs/blob/main/democratizing_innovation_the_transformative_impact_of_open_source_philosophy_on_scientific_engineering_and_technological_research.md#democratizing-innovation-the-transformative-impact-of-open-source-philosophy-on-scientific-engineering-and-technological-research) | 
+[THE RESEARCHER’S COMPENDIUM](https://github.com/srcyberlabs/srcyberlabs/blob/main/the_nex_generation_researchers_compendium_bridging_philosophical_rigor_and_traditional_methodology_in_modern_scholarship.md#the-next-generation-researchers-compendium-bridging-philosophical-rigor-and-traditional-methodology-in-modern-scholarship) | 
+[FREE AND OPEN SOURCE SOFTWARE](https://github.com/srcyberlabs/srcyberlabs/blob/main/free_and_open_source_software_the_indispensable_engine_of_secure_digital_evolution_and_democratic_societal_transformation.md#free-and-open-source-software-the-indispensable-engine-of-secure-digital-evolution-and-democratic-societal-transformation)
+
+</div>
+
 
 <br><br>
 
 > -----
 >
->  ### `SCIENCE, ENGINEERING, AND TECHNOLOGY ARE MORE THAN DISCIPLINES—THEY ARE THE DYNAMIC FORCES THAT PROPEL CIVILIZATION FORWARD. HISTORY’S MOST PIVOTAL BREAKTHROUGHS WERE BORN NOT FROM THEORY ALONE, BUT WERE FORGED IN THE CRUCIBLE OF BOLD IDEAS, RELENTLESS INNOVATION, AND DECISIVE ACTION. AT JP CYBER LABS, WE BELIEVE THAT HUMAN POTENTIAL IS BOUNDLESS, LIMITED ONLY BY THE SCOPE OF OUR VISION AND THE COURAGE TO PURSUE IT. WE CHAMPION THOSE WHO THINK BOLDLY, PUSH BOUNDARIES, AND CHALLENGE LIMITS, BECAUSE WE KNOW THAT WHEN DETERMINED INGENUITY IS UNLEASHED, NO OBSTACLE IS INSURMOUNTABLE.`
+>  ## SCIENCE, ENGINEERING, AND TECHNOLOGY ARE MORE THAN DISCIPLINES—THEY ARE THE DYNAMIC FORCES THAT PROPEL CIVILIZATION FORWARD. HISTORY’S MOST PIVOTAL BREAKTHROUGHS WERE BORN NOT FROM THEORY ALONE, BUT WERE FORGED IN THE CRUCIBLE OF BOLD IDEAS, RELENTLESS INNOVATION, AND DECISIVE ACTION. AT JP CYBER LABS, WE BELIEVE THAT HUMAN POTENTIAL IS BOUNDLESS, LIMITED ONLY BY THE SCOPE OF OUR VISION AND THE COURAGE TO PURSUE IT. WE CHAMPION THOSE WHO THINK BOLDLY, PUSH BOUNDARIES, AND CHALLENGE LIMITS, BECAUSE WE KNOW THAT WHEN DETERMINED INGENUITY IS UNLEASHED, NO OBSTACLE IS INSURMOUNTABLE.
 >
 > ![image](https://yt3.ggpht.com/dHCiU3o5w7mcpORi9zBq8QxROMaBTt8DR5FcBptVpWCiVr0x_NCSBp_TMKKiS2-PAqS9AbSodRX6=s1120-c-fcrop64=1,00000000ffffffff-rw-nd-v1)
 >
